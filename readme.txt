@@ -1,1 +1,1 @@
-java learning project
+This is a java learning project
